@@ -1,2 +1,2 @@
 # MeiKaiPython
-the python codes for the Shin Mei Kai Python
+the script files for the Shin Mei Kai Python
