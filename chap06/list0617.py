@@ -13,7 +13,7 @@ print(f'a % b = {a % b}')
 print(f'a // b = {a // b}') 
 print(f'b是a的{a / b:%}') # 百分率 
 print() 
-print(f' a b c') # 正 负 
+print(f'    a   b   c') # 正 负 
 print(f'[+]{a:+5}{b:+5}{c:+5}') # '+' '-' 
 print(f'[-]{a:-5}{b:-5}{c:-5}') #   '-' 
 print(f'[ ]{a: 5}{b: 5}{c: 5}') # ' ' '-' 
