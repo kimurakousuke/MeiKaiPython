@@ -1,5 +1,5 @@
 """打印输出九九乘法表和加法表·""" 
-    def kuku(func): 
+def kuku(func): 
     """打印输出九九乘法表""" 
     for i in range(1, 10):
         for j in range(1, 10):
