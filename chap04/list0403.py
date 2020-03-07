@@ -1,11 +1,11 @@
-# 1からnまでの和を求める
+# 计算1到n的和
 
-print('1からnまでの和を求めます。')
-n = int(input('nの値：'))
+print('计算1到n的和。') 
+n = int(input('n的值：')) 
 
 sum = 0
 i = 1
 while i <= n:
-    sum += i   # sumにiを加える
-    i += 1     # iに1を加える
-print('1から', n, 'までの和は', sum, 'です。')
+    sum += i # sum加i
+    i += 1 # i加1
+print('1到', n, '的和为', sum, '。')
